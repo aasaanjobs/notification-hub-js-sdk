@@ -104,3 +104,4 @@ dist
 .tern-port
 
 *.proto
+*.DS_Store

@@ -1,0 +1,22 @@
+{
+  "name": "notification-hub-js-sdk",
+  "version": "1.0.0",
+  "description": "TypeScript SDK to communicate with Aasaanjobs Notification Hub and send notifications to users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vaibhav Chauhan",
+  "license": "ISC",
+  "dependencies": {
+    "@types/google-protobuf": "^3.7.2",
+    "@types/sqs-producer": "^1.6.0",
+    "grpc-tools": "^1.9.0",
+    "sqs-producer": "~1.6.3",
+    "uuidv4": "^6.0.2"
+  },
+  "devDependencies": {
+    "grpc_tools_node_protoc_ts": "^4.0.0",
+    "typescript": "~3.7.5"
+  }
+}
